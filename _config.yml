@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+markdown: markdown
+tittle: Equipo 6
+description: Curso de Fundamentos
+show_downloads: true
