@@ -1,5 +1,5 @@
 ---
-layout: miembros
+layout: default
 ---
 ### Diseñadores web
 ### Investigacion
